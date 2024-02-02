@@ -1,0 +1,20 @@
+body {
+    background-color: pink;
+}   
+div{
+    height: 200px;
+    margin-bottom: 1cm;
+}
+
+.cuadroOscuro{
+    width: 50%;
+    background: black;
+}
+#cuadroclaro{
+    width: 90%;
+    background-color: lime;
+}
+.borde{
+    border: 4px dotted orangered;
+
+}
