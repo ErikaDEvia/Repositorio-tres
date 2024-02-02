@@ -14,5 +14,5 @@ En css con diferentes propiedades se puede darle bordes, altura, ancho y el marg
 
 Este ejercicio es muy practico para aprender a utilizar los diferentes comandos en github.
 
-
+Esta actividad de repositorios es importante para aprender mas de los comandos y de la interfaz con el github.
 
