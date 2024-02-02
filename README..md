@@ -4,6 +4,6 @@
 
 El archivo index es la primera actividad práctica en html.
 
-
+El archivo de selectores es un ejercicio práctico para crear modelos de cajas.
  
 
